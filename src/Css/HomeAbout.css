@@ -1,0 +1,56 @@
+
+.mainsection{
+    display: flex;
+    
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.contentbox{
+    width: 40%;
+    padding-left: 1em;
+    padding-top: 15em;
+}
+
+.contentbox h1{
+    font-size: 2.5rem;
+    color: purple;
+}
+
+.contentbox p{
+    font-size: 1.2rem;
+    font-weight: 100;
+    margin: 1em 0;
+    font-family: 'Poppins', sans-serif;
+    font-size: medium;
+
+}
+
+.btn-box{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2em;
+}
+
+.readmore,.Knowmore{
+    display: inline-block;
+    font-size: xx-large;
+    color: red;
+}
+
+.imagecontainer{
+    padding-top: 10em;
+
+}
+.imagecontainer1{
+    height: 500px;
+}
+.imagecontainer1{
+    padding-top: 10em;
+}
+.imagecontainer3{
+   padding-left: 100px;
+}
+
